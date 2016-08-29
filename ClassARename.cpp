@@ -1,14 +1,14 @@
-#include "ClassA.h"
+#include "ClassARename.h"
 #include <iostream>
 
 
-ClassA::ClassA()
+ClassARename::ClassARename()
 {
   std::cout << "ClassA constructor\n";
 }
 
 
-ClassA::~ClassA()
+ClassARename::~ClassARename()
 {
   std::cout << "ClassA destructor\n";
 }

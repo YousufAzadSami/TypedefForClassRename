@@ -21,7 +21,7 @@
     <ClCompile Include="ClassB.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ClassA.cpp">
+    <ClCompile Include="ClassARename.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -29,7 +29,7 @@
     <ClInclude Include="ClassB.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="ClassA.h">
+    <ClInclude Include="ClassARename.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
