@@ -18,18 +18,18 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ClassA.cpp">
+    <ClCompile Include="ClassB.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ClassB.cpp">
+    <ClCompile Include="ClassA.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ClassA.h">
+    <ClInclude Include="ClassB.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="ClassB.h">
+    <ClInclude Include="ClassA.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

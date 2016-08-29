@@ -9,6 +9,8 @@ int main()
   ClassA _a;
   std::cout << "in between\n";
   ClassB _b;
+  std::cout << "Class A renamed with typeDef\n";
+  ClassARenameWithTypeDef _aRename;
   
   std::cout << "asdfasdf\n";
   return 0;
